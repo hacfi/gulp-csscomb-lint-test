@@ -1,0 +1,15 @@
+{
+  "name": "gulp-csscomb-lint-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hacfi/gulp-csscomb-lint-test.git"
+  },
+  "homepage": "https://github.com/hacfi/gulp-csscomb-lint-test",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-csscomb-lint": "0.0.2"
+  }
+}

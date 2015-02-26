@@ -1,0 +1,9 @@
+html {
+  color: #000000;
+}
+div {
+  box-sizing: border-box;
+  top: 1px;
+  position: relative;
+  opacity: 0;
+}
